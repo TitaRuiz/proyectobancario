@@ -14,7 +14,7 @@ import java.sql.SQLException;
  */
 public class Cajero {
     //Este es un comentrio
-    
+    private String hola;
     
     public double consultaSaldo(int idCuenta) throws ClassNotFoundException, SQLException 
     {
