@@ -13,6 +13,8 @@ import java.sql.SQLException;
  * @author Programacion
  */
 public class Cajero {
+    //Este es un comentrio
+    
     
     public double consultaSaldo(int idCuenta) throws ClassNotFoundException, SQLException 
     {
